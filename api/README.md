@@ -74,3 +74,5 @@ Symfony 2 application
 #installation
 
 http://symfony.com/doc/current/book/installation.html#installing-composer-globally
+
+Wojtek
